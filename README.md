@@ -5,7 +5,7 @@ Early prototype: a 2D puzzle-platformer built as a precursor to
 learned here (project structure, avoiding hardcoded level design) carried
 directly into that later project.
 
-![Choppy Orc gameplay](Images/demo.gif)
+![Choppy Orc gameplay](Images/choppy_orc_sample.gif)
 
 ## About
 
