@@ -1,1 +1,2 @@
-pygame-ce
+run pip install pygame-ce
+run main.py 
